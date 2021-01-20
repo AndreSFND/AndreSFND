@@ -6,7 +6,7 @@
 ### Some things about me:
 ✨ I'm a __computer science__ student at USP São Carlos
 
-✨ I'm currenly working at __ICMC Junior__
+✨ I'm currently working at __ICMC Junior__
 
 ✨ I really enjoy learning about and playing __musical instruments__
 
