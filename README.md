@@ -6,7 +6,7 @@
 ### Some things about me:
 ✨ I'm a __computer science__ student at USP São Carlos
 
-✨ I'm the computer project director of __ICMC Junior__
+✨ I'm a software engineer intern at __Amdocs__
 
 ✨ I really enjoy learning about and playing __musical instruments__
 
