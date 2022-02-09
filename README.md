@@ -13,7 +13,7 @@
 ✨ I'm currently in love with __framework__ and __high performance__ concepts
 ##
 ### Visit my social medias! 😊
-- [Linkedin](https://www.linkedin.com/in/andre-sfnd/)
+- [Linkedin](https://www.linkedin.com/in/AndreSFND/)
 - [Facebook](https://www.facebook.com/andre.sfnd.537/)
 ##
 ### Extra 🥰
