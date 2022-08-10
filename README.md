@@ -14,7 +14,7 @@
 ✨ I really enjoy learning about and playing __musical instruments__  
 ✨ I'm currently studying about __high performance__ and __algorithms__
 
-### Visit my social medias! 😊
+### Visit me! 😊
 🔗 [Linktree](https://linktr.ee/andresfnd)  
 🔗 [Linkedin](https://www.linkedin.com/in/AndreSFND/)
 
