@@ -10,7 +10,7 @@
 
 ### Some things about me:  
 ✨ I'm a __computer science__ student at USP São Carlos  
-✨ I'm a software engineer intern at __Amdocs__  
+✨ I'm a software development engineer intern at __Amazon__  
 ✨ I really enjoy learning about and playing __musical instruments__  
 ✨ I'm currently studying about __high performance__ and __algorithms__
 
